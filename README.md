@@ -8,7 +8,7 @@ Shift : B (krs = I)
 
 ## Video Demo Aplikasi
 
-
+https://github.com/ivand-n/responsi1-pemmob/issues/1#issuecomment-3448547059
 
 
 ## Penjelasan Alur Data
